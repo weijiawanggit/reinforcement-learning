@@ -1,0 +1,27 @@
+ 1303  git clone git@git.scc.kit.edu:yx0446/reinforcement-learning-online-training.git
+ 1304  git config --global user.name "yx0446"
+ 1305  git config --global user.name "weijia.wang@partner.kit.edu"
+ 1306  git clone git@git.scc.kit.edu:yx0446/reinforcement-learning-online-training.git
+ 1307  chmod 600 ~/.ssh/id_rsa
+ 1308  git clone git@git.scc.kit.edu:yx0446/reinforcement-learning-online-training.git
+ 1309  git clone https://git.scc.kit.edu/yx0446/reinforcement-learning-online-training.git
+ 1310  ls
+ 1311  cp -r gpp-struct/ reinforcement-learning-online-training/gcc-struct
+ 1312  cd reinforcement-learning-online-training/
+ 1313  ls
+ 1314  git init
+ 1315  git add .
+ 1316  git status
+ 1317  git commit -m
+ 1318  git commit -m "the forward BP NN finished"
+ 1319  git config --global user.email "yx0446@partner.kit.edu"
+ 1320  git config --global user.name "yx0446"
+ 1321  git commit -m "the forward BP NN finished"
+ 1322  git push -u origin master
+
+
+sometimes ![reject]
+hint try git pull
+
+then we try git pull first
+and git push -u origin master

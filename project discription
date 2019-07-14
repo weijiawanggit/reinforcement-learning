@@ -1,0 +1,8 @@
+the project is located in the laptop.
+/ML/RL/tensorflow_test
+under which there is two folder:
+13_lable_data_training
+one_lable_data_training
+
+this two are just train with one step for simulation the backpropagation (the real reinforcement learning is not run this way, only for study tensorflow)
+the 13_lable_data_training is the correct version that could train exactly one Episode and include all 13 step.
